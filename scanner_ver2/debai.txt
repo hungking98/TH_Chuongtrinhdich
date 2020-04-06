@@ -1,0 +1,7 @@
+Câu 1 : keyword viết thường thôi... VD: chỉ chấp nhận begin chứ không phải là Begin hay BEGIN
+Câu 2 : Chữ độ dài 10, dài hơn thì cắt bớt đi chứ không thông báo lỗi
+Câu 3 : Vai trò của [ ]  như (. .)
+Câu 4 : Vai trò của !=  như là <>
+Câu 5 : Chấp nhận kí tự constchar lạ như '\'', '\n',..( chọn 1 trong 3)
+Câu 6 : Chấp nhận hằng xâu "abcd"
+Câu 7 :Chấp nhận comment dòng lệnh như //
